@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="713a08cf-7df2-4d63-b955-22f8c266b41f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Ediary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_46_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ediary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/BaseDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/DatabaseConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECConst.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$BooleanValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$DateValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$DoubleValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$ECValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$EmailValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$IntValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$NameValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$PNValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$PassValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$PinCodeValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion$ReqValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/ECValidattion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/GUIValidator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/GUIValidator$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/GUIValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/InstallDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/MyUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/MyUtils$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/MyUtils$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/MyUtils$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/ECUtils/MyUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/e/bean/Diary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/e/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/e/dao/DiaryDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/e/dao/UserDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/e/diary/DiaryFXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/e/diary/DiaryFXMLController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/e/diary/EDiary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/e/diary/MainFXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/e/diary/MainFXMLController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/Ediary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/Ediary.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/Ediary.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/lib/mysql-connector-java-5.1.46-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/web-files/dtjava.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/web-files/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/web-files/get_java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/web-files/get_javafx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/web-files/javafx-chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/web-files/javafx-loading-100x100.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/web-files/javafx-loading-25x25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/web-files/upgrade_java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/web-files/upgrade_javafx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fx_ediary.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-j-8.0.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/protobuf-java-3.19.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/configs/Run_as_WebStart.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/configs/Run_in_Browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/jfx-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/configs/Run_as_WebStart.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/configs/Run_in_Browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/retriever/catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/retriever/www.oracle.com/technetwork/java/javase/overview/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/BaseDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/DatabaseConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECConst.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$BooleanValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$DateValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$DoubleValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$ECValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$EmailValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$IntValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$NameValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$PNValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$PassValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$PinCodeValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion$ReqValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/ECValidattion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/GUIValidator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/GUIValidator$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/GUIValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/InstallDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/MyUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/MyUtils$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/MyUtils$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/MyUtils$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/ECUtils/MyUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/e/bean/Diary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/e/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/e/dao/DiaryDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/e/dao/UserDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/e/diary/DiaryFXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/e/diary/DiaryFXMLController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/e/diary/EDiary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/e/diary/MainFXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/e/diary/MainFXMLController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ediary/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ECUtils/BaseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ECUtils/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ECUtils/ECConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ECUtils/ECValidattion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ECUtils/GUIValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ECUtils/InstallDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ECUtils/MyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e/bean/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e/dao/DiaryDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e/diary/DiaryFXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e/diary/DiaryFXMLController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e/diary/EDiary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e/diary/MainFXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e/diary/MainFXMLController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Kqvt8NFJclKzVMke14OFfegvoq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/ProgramFiles/Intellij/JDBC/ojdbc10.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <envs>
+        <env name="PATH_TO_OPENJFX" value="$PROJECT_DIR$/../javafx-sdk-19.0.2.1" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="e.diary.EDiary" />
+      <module name="Ediary" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/../javafx-sdk-19.0.2.1/lib --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="713a08cf-7df2-4d63-b955-22f8c266b41f" name="Changes" comment="" />
+      <created>1674715140042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674715140042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>

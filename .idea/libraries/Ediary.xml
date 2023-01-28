@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Ediary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Ediary.jar!/" />
+      <root url="file://$PROJECT_DIR$/dist" />
+      <root url="file://$PROJECT_DIR$/../javafx-sdk-19.0.2.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../javafx-sdk-19.0.2.1" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/dist" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../javafx-sdk-19.0.2.1/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../javafx-sdk-19.0.2.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
